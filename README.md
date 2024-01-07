@@ -74,3 +74,5 @@ Based on the analysis, we recommended the following actions:
 2.Tailor marketing efforts to sustain strong sales in the US market, while devising targeted strategies to improve sales in Canada.
 
 3.Customers with bachelor's degrees and partial college education should be the target market for marketing and product offerings. By taking advantage of their higher incomes can increase sales and customer engagement.
+
+
