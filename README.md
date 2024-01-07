@@ -6,6 +6,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Results](#results)
 - [Recommendations](#recommendations)
   
 ## Project Overview
@@ -51,7 +52,9 @@ In the initial data preparation phase, we performed the following tasks:
 
 2.Integrate various data sources to generate comprehensive insights into sales, production, and customer patterns.
 
-### Results/Findings
+
+
+## Results
 
 The analysis results are summarized as follows:
 
